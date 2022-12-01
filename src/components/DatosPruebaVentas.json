@@ -1,0 +1,40 @@
+[
+  {
+    "fecha": "4/11/2022",
+    "factura": 100,
+    "total": 73000,
+    "detalle": [
+      { 
+        "idProducto": 1,
+        "nombre": "Antagonista 1",
+        "cantidadVta": 1,
+        "subtotal": 25000
+      },
+      {
+        "idProducto": 2,
+        "nombre": "Death Note No. 1",
+        "cantidadVta": 1,
+        "subtotal": 48000
+      }
+    ]
+  },
+  {
+    "fecha": "5/11/2022",
+    "factura": 101,
+    "total": 75000,
+    "detalle": [
+      { 
+        "idProducto": 3,
+        "nombre": "Naruto Tomo 31",
+        "cantidadVta": 1,
+        "subtotal": 38000
+      },
+      {
+        "idProducto": 4,
+        "nombre": "Saint Seiya Edición 05",
+        "cantidadVta": 1,
+        "subtotal": 37000
+      }
+    ]
+  }
+]

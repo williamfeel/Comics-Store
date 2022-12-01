@@ -1,0 +1,59 @@
+.Formulario{
+  
+  background: #FFFFFF;
+  color: black;
+  padding: 10px;
+  
+  
+  margin-left:   auto;
+  margin-right:  auto;
+  width:         100%;
+
+  font-size: 1rem;
+  display: grid;
+  
+}
+
+.Centrar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+.Botones{
+  padding-right: 130px;
+  
+}
+
+.ventaTexto2 {
+  color: black;
+  text-align: center;
+}
+
+.Borde {
+  border: white 8px outset;
+  padding: 10px;
+  
+  
+  margin-left:   auto;
+  margin-right:  auto;
+  width:         100%;
+
+  font-size: 1rem;
+  display: grid;
+} 
+.Centrar2{
+  display: flexbox;
+  align-items: center;
+  justify-content: center;
+  margin-left:   auto;
+  margin-right:  auto;
+  width:         50%;
+  
+}
+
+.textoConfirmar {
+  color: white; 
+}

@@ -1,0 +1,18 @@
+.productoCard {
+  font-size: 18px;
+  text-align: left;
+  color: rgb(35, 46, 39);
+  font-weight: bold;
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow: ellipsis;
+}
+
+.productoImg{
+  border-radius: 10px;
+  color: white;
+}
+
+.cardBodyTam{
+  height: 180px;
+}

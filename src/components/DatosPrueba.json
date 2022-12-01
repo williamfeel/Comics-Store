@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "nombre": "Antagonista 1",
+    "autor": "Saikomic",
+    "editorial": "Megaline Chile",  
+    "estado": "En stock",
+    "precio": 25000,
+    "disponibles": 10,
+    "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/45/aa/45aac49a001e9f8000f1390baff020b4.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Death Note No. 1",
+    "autor": "Tsugumi Ohba",
+    "editorial": "Norma Comics",  
+    "estado": "En stock",
+    "precio": 48000,
+    "disponibles": 5,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_678345-MCO45343457049_032021-F.webp"
+  },
+  {
+    "id": 3,
+    "nombre": "Naruto Tomo 31",
+    "autor": "Masashi Kishimoto",
+    "editorial": "Panini",  
+    "estado": "En stock",
+    "precio": 38000,
+    "disponibles": 15,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_987290-MCO44142948573_112020-O.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Saint Seiya Edición 05",
+    "autor": "Masami Kurumada",
+    "editorial": "Glénat / EDT ",  
+    "estado": "En stock",
+    "precio": 37000,
+    "disponibles": 8,
+    "imagen": "https://cdn.normacomics.com/media/catalog/product/cache/1/image/588x473/9df78eab33525d08d6e5fb8d27136e95/5/6/56293100501_G.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "El Viaje de Chihiro",
+    "autor": "Alvaro Lopez Martin",
+    "editorial": "Diabolo",  
+    "estado": "En stock",
+    "precio": 68000,
+    "disponibles": 8,
+    "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/32/dc/32dc80501cf3a322f2f2f369f40ab438.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Batman: La Broma Asesina",
+    "autor": "Alan Moore, Brian Bolland",
+    "editorial": "Ecc",  
+    "estado": "En stock",
+    "precio": 18000,
+    "disponibles": 3,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_995048-MCO32380605004_092019-O.webp"
+  },
+  {
+    "id": 7,
+    "nombre": "Pantera Negra. ¿quien Es Pantera Negra?",
+    "autor": "Stan Lee",
+    "editorial": "Panini",  
+    "estado": "En stock",
+    "precio": 50000,
+    "disponibles": 4,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_657190-MCO49139924071_022022-O.webp"
+  },
+  {
+    "id": 8,
+    "nombre": "Flash: Carrera Por La Humanidad",
+    "autor": "Grant Morrison",
+    "editorial": "Ecc",  
+    "estado": "En stock",
+    "precio": 25000,
+    "disponibles": 7,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_907447-MCO49169802081_022022-O.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "La Espada Salvaje De Conan: Clavos Rojos Y Otros Relatos",
+    "autor": "Por definir",
+    "editorial": "Panini",  
+    "estado": "En stock",
+    "precio": 20000,
+    "disponibles": 16,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_927056-MCO49151743426_022022-O.webp"
+  },
+  {
+    "id": 10,
+    "nombre": "World Of Warcraft: Illidan",
+    "autor": "William King",
+    "editorial": "Panini",  
+    "estado": "En stock",
+    "precio": 29000,
+    "disponibles": 5,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_842839-MCO49152059302_022022-O.webp"
+  }
+
+]
